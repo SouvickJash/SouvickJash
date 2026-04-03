@@ -1,4 +1,4 @@
-![logo](BN1.jpg)
+![logo](./BN1.jpg)
 <h1 align="center">Hey 👋,This is Souvick Jash </h1>
 <img align="right" margin-left="-30" alt="Coding" width="100" src="">
 <h3 align="center">A passionate Full Stack developer from India</h3>
