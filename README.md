@@ -1,8 +1,7 @@
 ![logo](./BN1.png)
 <h1 align="center">Hey 👋,This is Souvick Jash </h1>
-<img align="top" border-radious="10px" alt="Coding" width="100" src="./banner1.png">
+<img align="top" style="border-radius:10" alt="Coding" width="100" src="./banner1.png">
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<!-- <img align="left" margin-left="-30" alt="Coding" width="100" src="./banner1.png"> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
