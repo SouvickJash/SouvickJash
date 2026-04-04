@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript,React,Node,Express,Mongodb**
 
-- 📫 How to reach me **souvickjash9836@gmail.com**
+- 📫 How to reach me **souvickcse25@gmail.com**
 - ⚡ Fun fact **thinking logical concept**
 
 <h3 align="left">Connect with me:</h3>
